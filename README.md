@@ -7,7 +7,7 @@ I am a practically minded Software Engineer with a wide knowledge of coding lang
 ### React, Postgres, SQL, HTML, CSS, Javascript
 ### Currently learning: Django
 
-##Socials:
+## Socials:
 ### [LinkedIn](https://www.linkedin.com/in/richardjremley/)
 
 
